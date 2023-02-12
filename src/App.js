@@ -7,7 +7,7 @@ function App() {
       <div className="container">
         <header className="App-header">
           {" "}
-          <h1>Dictionary</h1>
+          <h1>Dictionary 📖</h1>
         </header>
         <Dictionary defaultKeyword="tulips" />
       </div>
